@@ -2,6 +2,12 @@
 name = "slack-conversation-logger"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "MCP server that logs AI assistant conversations to Slack threads for audit and collaboration"
+repository = "https://github.com/SH11235/slack-conversation-logger"
+readme = "README.md"
+keywords = ["mcp", "slack", "logger", "conversation", "claude"]
+categories = ["api-bindings", "development-tools"]
 
 [dependencies]
 anyhow = "1.0"

@@ -224,11 +224,8 @@ cargo run
 
 ## License
 
-[Your license here]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-Based on the Discord Conversation Logger MCP server architecture.
 
 ## CLAUDE.md Configuration
 
