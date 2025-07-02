@@ -1,0 +1,5 @@
+{
+  "bot_token": "xoxb-your-slack-bot-token",
+  "channel_id": "C1234567890",
+  "thread_name": "Conversation Log"
+}
