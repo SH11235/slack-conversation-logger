@@ -12,7 +12,7 @@ serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
 rmcp = { git = "https://github.com/modelcontextprotocol/rust-sdk", rev = "9ca20c69b27e531a5eadfd4b5654592ab93e2b11", features = ["transport-io"] }
 rmcp-macros = { git = "https://github.com/modelcontextprotocol/rust-sdk", rev = "9ca20c69b27e531a5eadfd4b5654592ab93e2b11" }
-schemars = "0.8"
+schemars = "0.8" # rust-sdk requires version 0.8
 async-trait = "0.1.88"
 once_cell = "1.19"
 chrono = "0.4"

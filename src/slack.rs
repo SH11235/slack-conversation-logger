@@ -9,7 +9,6 @@ use slack_morphism::{
     prelude::SlackClientHyperConnector,
 };
 
-// Type alias for cleaner code and easier maintenance
 type DefaultSlackClient = slack_morphism::SlackClient<
     SlackClientHyperConnector<
         hyper_rustls::HttpsConnector<hyper_util::client::legacy::connect::HttpConnector>
