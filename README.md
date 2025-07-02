@@ -2,6 +2,8 @@
 
 An MCP (Model Context Protocol) server that logs conversations to Slack threads. This is a Rust implementation that allows AI assistants to log important interactions, decisions, or context to a designated Slack channel.
 
+![スクリーンショット 2025-07-02 231306](https://github.com/user-attachments/assets/182e6515-0440-4e78-833b-2ec691113c1e)
+
 ## Features
 
 - Logs messages to Slack threads with role-based formatting
